@@ -64,3 +64,11 @@
   <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> 
 </p>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="200" src="https://streak-stats.demolab.com?user=zohaib2001&theme=tokyonight" />
+  <img height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
