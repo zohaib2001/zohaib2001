@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Improving my Python skills through real projects and solving algorithm challenges on LeetCode.**
 
-- 🌱 I'm currently learning **sadsa sad Python, data structures & algorithms, and cybersecurity concepts.**
+- 🌱 I'm currently learning **Python, data structures & algorithms, and cybersecurity concepts.**
 
 - 👯 I'm looking to collaborate on **Python-based projects, security-focused tools, and beginner-friendly open-source contributions.**
 
