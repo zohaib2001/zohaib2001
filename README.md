@@ -2,7 +2,6 @@
 
 ### Python Developer in Training | Cybersecurity Learner | Problem Solver
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaib2001&label=Profile views&color=0e75b6&style=flat" alt="zohaib2001" /> </p>
 
 - 🔭 I'm currently working on **Improving my Python skills through real projects and solving algorithm challenges on LeetCode.**
 
