@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=anaconda,aws,azure,bash,c,cpp,css,django,docker,flask,html,java,js,kubernetes,mongodb,mysql,nodejs,opencv,php,postgres,py,pytorch,react,scikitlearn,selenium,tailwind,tensorflow,ts,vue&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,postgres,docker,aws,linux,git,bash,pytorch,sklearn,selenium&perline=6" />
 </p>
 
 ## 📊 GitHub Activity
